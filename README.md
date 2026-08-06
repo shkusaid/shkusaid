@@ -17,10 +17,11 @@
 ### 🔭 About Me
 
 - 🤖 I'm currently focused on **Machine Learning**, **Computer Vision**, and **NLP**
+- 🖼️ Recently built an image classifier using **transfer learning** (ResNet-18) to tell cats from dogs
 - 🌱 Learning to contribute effectively to **open source** as part of my prep for **GSoC 2027**
 - 🛠️ Comfortable with **Python**, **PyTorch**, **scikit-learn**, and web basics (**JavaScript**)
 - 🎯 Goal: get accepted into Google Summer of Code by building real, useful, well-documented projects
-- 💬 Ask me about Naive Bayes classifiers, transformer-based NLP pipelines, or data cleaning workflows
+- 💬 Ask me about transfer learning, Naive Bayes classifiers, transformer-based NLP pipelines, or data cleaning workflows
 
 ---
 
@@ -28,6 +29,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [cat-vs-dog-classifier](https://github.com/shkusaid/cat-vs-dog-classifier) | Image classifier using transfer learning on a pretrained ResNet-18 to distinguish cats from dogs | `Python` `PyTorch` `torchvision` |
 | [Human-Language-Detector](https://github.com/shkusaid/Human-Language-Detector) | Detects the language of input text with a Naive Bayes classifier and translates it using pretrained transformer models | `Python` `scikit-learn` `Transformers` |
 | [Data_cleaning_project](https://github.com/shkusaid/Data_cleaning_project) | End-to-end data cleaning and preprocessing pipeline on a messy real-world dataset | `Python` `Pandas` `NumPy` |
 | [Foodie-Frienzy](https://github.com/shkusaid/Foodie-Frienzy) | A food-ordering web app front end | `JavaScript` |
@@ -63,6 +65,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shkusaid&hide_border=true" />
 </p>
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/5bE2cHiN2w/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/5bE2cHiN2w?theme=light&font=baloo2&ext=heatmap" alt="shkusaid's LeetCode stats" />
+  </a>
+</p>
+
+> 📌 Note: the card above uses a third-party renderer (leetcard.jacoblin.cool) keyed to your LeetCode username/slug `5bE2cHiN2w`. If it doesn't render after you publish, double check that slug matches your public LeetCode profile URL exactly, or swap in an alternative like [LeetCode Stats Card](https://github.com/JacobLinCool/LeetCode-Stats-Card).
 
 ---
 
