@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Muhammad Usaid 👋</h1>
-<h3 align="center">Machine Learning Developer | Open Source Learner | Python • PyTorch • Computer Vision • NLP</h3>
-
 <p align="center">
-  Aspiring <b>Google Summer of Code</b> contributor, building in public while I sharpen my ML and software engineering skills.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:6a3093,100:e94057&height=200&section=header&text=Hi%20there,%20I'm%20Muhammad%20Usaid&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Developer%20%7C%20Open%20Source%20Learner&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
@@ -91,3 +88,5 @@
 <p align="center">
   <i>Thanks for stopping by — feel free to explore my repos or connect with me on LinkedIn!</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94057,50:6a3093,100:1e3c72&height=120&section=footer" width="100%"/>
