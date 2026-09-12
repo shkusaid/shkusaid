@@ -52,6 +52,15 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Achievement-YOLO-blueviolet?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Achievement-Quickdraw-orange?logo=github&logoColor=white" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
